@@ -14,3 +14,5 @@ The image must be in the same directory as the program.
 
 PIL: https://pillow.readthedocs.org/installation.html
 pysynth: http://mdoege.github.io/PySynth/
+
+*The .wav files are huge and big pictures take a veryyyyyyy long time to run. The program is pretty inefficient since it turns every pixel into a note, so a 10x10 px picture has 100 notes...*
